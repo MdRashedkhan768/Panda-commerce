@@ -1,0 +1,50 @@
+.container{
+    margin-bottom: 100px;
+}
+.rashed{
+    background-color: #FEEAE9;
+    border-radius: 20px;
+}
+.carousel-item{
+    padding: 40px 40px;
+}
+.price{
+    color: #ea0909;
+}
+.btn{
+    background-image: linear-gradient(salmon, tomato);
+    font-size: 30px;
+    border: none;
+    border-radius: 7px;
+    padding: 10px;
+    margin: 10px;
+}
+.rr1, .rr2, .rr3{
+    padding: 10px 30px;
+    border-radius: 20px;
+}
+.rr1{
+    background-color: coral;
+}
+.rr2{
+    background-color: darkorchid;
+}
+.rr3{
+    background-color: hotpink;
+}
+.cat h1{
+    color: rgb(255, 250, 240);
+}
+.cat img{
+    width: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px rgb(103, 38, 38);
+ }
+ #contact{
+    height: 300px;
+ }
+ footer{
+    text-align: center;
+ }
